@@ -1,0 +1,29 @@
+NUMEROMANCER
+
+Core mechanic
+    Solving math problems
+
+Core gameplay loop
+    Player solves progressively more difficult math problems, trying to solve as many as possible in sixty seconds
+
+Intended player experience
+    Thinking under pressure, play the game a few times to beat their own high score
+
+Theme
+    The more questions answered, the more powerful a spell is cast by the numeromancer
+        The numeromancer is conjuring a cute animal! the more questions answered, the cuter the animal summoned
+
+Primary features
+    Asked questions, answer input, timer
+
+Secondary features
+    Title screen, game over screen, score, high score, skip button
+
+Polish
+    Sound effects, difficulty scale, toggles for addition/subtraction/multiplication/division, leaderboards, free play mode, numeromancer art and animation, show list of questions, player answers, and correct answers
+
+What do I need to learn?
+    I need to learn how to use the UI in Godot:
+        How to programmatically display text
+        How to accept player input
+        How to load different scenes
