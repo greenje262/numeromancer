@@ -16,8 +16,23 @@ _global_script_class_icons={
 [application]
 
 config/name="numeromancer"
+run/main_scene="res://Scenes/PlayScene.tscn"
 config/icon="res://Sprites/icon.png"
+
+[display]
+
+window/size/width=128
+window/size/height=128
+
+[input]
+
+answer={
+"deadzone": 0.5,
+"events": [ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":16777221,"unicode":0,"echo":false,"script":null)
+ ]
+}
 
 [rendering]
 
+environment/default_clear_color=Color( 0, 0, 0, 1 )
 environment/default_environment="res://Resources/default_env.tres"

@@ -27,3 +27,15 @@ What do I need to learn?
         How to programmatically display text
         How to accept player input
         How to load different scenes
+
+Summons
+    1. Bug
+    2. Mouse
+    3. Turtle
+    4. Cat
+    5. Goat
+    6. Dog
+    7. Deer
+    8. Bear
+    9. Horse
+    10. Pegasus
