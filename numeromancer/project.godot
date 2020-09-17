@@ -23,6 +23,8 @@ config/icon="res://Sprites/icon.png"
 
 window/size/width=128
 window/size/height=128
+window/stretch/mode="viewport"
+window/stretch/aspect="keep"
 
 [input]
 
